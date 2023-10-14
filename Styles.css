@@ -1,0 +1,125 @@
+
+h1 {
+    position: absolute;
+    top: 10%;
+    left: 7.5%;
+    margin: auto;
+    font-family: Candara;
+    text-align: center;
+    font-size: 45px;
+    color: whitesmoke;
+    text-shadow: -2.5px 0 black, 0 2.5px black, 2.5px 0 black, 0 -2.5px black;
+    margin-top: 10px;
+}
+
+p {
+    display: block;
+    position: absolute;
+    top: 34.5%;
+    left: 22.5%;
+    font-size: 30px; 
+    text-align:center;
+    font-family: Candara;
+    color: rgb(245, 245, 245);
+    text-shadow: -2.5px 0 black, 0 2.5px black, 2.5px 0 black, 0 -2.5px black;
+}
+
+#salJ {
+    color: rgb(69, 88, 199);
+}
+
+#salM {
+    color: rgb(197, 73, 73);
+}
+
+#salP {
+  color: rgb(64, 226, 86);
+}
+
+
+body {
+    background: #1b2849;
+    background-size: auto;
+}
+
+
+.formulario {
+    position: absolute;
+    width: 100px;
+    height: 40px;
+    top: 42.5%;
+    left: 55.5%;
+    margin-top: -100px;
+    margin-left: -100px;
+    background: none repeat scroll 0 0 #428ac096;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px inset;
+    box-shadow: 1px 1px 3px #333333;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000000;
+  }
+
+  #nombJ {
+    color: rgb(69, 88, 199);
+  }
+
+  #nombM {
+    color: rgb(197, 73, 73);
+  }
+
+  .formulario2{
+    position: fixed;
+     width: 100px;
+    height: 40px;
+    top: 32.5%;
+    left: 57.5%;
+    margin-top: -100px;
+    margin-left: -100px;
+    background: none repeat scroll 0 0 #428ac096;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px inset;
+    box-shadow: 1px 1px 3px #333333;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000000;
+  }
+
+ img {
+    position: absolute;
+    top: 69.5%;
+    left: 40%;
+    margin-top: -100px;
+    margin-left: -100px;
+    max-width: 400px;
+  }
+  
+#DNV {
+  font-family: Candara;
+  color: rgb(245, 245, 245);
+  font-size: 17px;
+}
+
+.fondo {
+  position: fixed;
+  right: 25%;
+  background-color: #3333335d;
+  width: 700px;
+  height: 655px;
+  box-shadow: 30px 120px 50px 60px rgba(0,0,0,.1);
+}
+
+html {
+  margin-top: -7.5px;
+  margin-bottom: -7.5px;
+}
